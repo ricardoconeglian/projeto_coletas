@@ -1,0 +1,6 @@
+venv
+db.sqlite3
+merbers_profile
+__pycache__git 
+static
+__pycache__
